@@ -1,0 +1,3 @@
+[submodule "test-repo-submodules-private"]
+	path = test-repo-submodules-private
+	url = https://github.com/pagueru/test-repo-submodules-private
